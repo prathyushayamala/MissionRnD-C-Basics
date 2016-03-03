@@ -19,23 +19,22 @@ Points to Follow for the whole C course :
 #include "FunctionHeadersBasics.h"
 
 int main(){
-
 	
 	//Test Sum of numbers
 	
 	int sumTemp = sum(4, 3);
-	printf("%d\n", sumTemp);
+	printf("sum of given numbers is %d\n", sumTemp);
 	
 	//Test Count file
 	
 	int countTemp = count(5, 20);
-	printf("%d\n", countTemp);
+	printf("the count of numbers between given numbers are %d\n", countTemp);
 
 
 	//Test Swap
 	int a = 5, b = 7;
 	swap(&a, &b);
-	printf("%d %d\n", a, b);
+	printf("the swapped numbers are %d %d\n", a, b);
 
 	//Is Older 
 	char date1[20] = "29-02-2004";
@@ -51,7 +50,5 @@ int main(){
 	//Variable Arguments
 	int total = variableArguments(3, 20, 90, 98);
 	printf("There are %d students greater than 90\n", total);
-	
-	
 	return 0;
 }

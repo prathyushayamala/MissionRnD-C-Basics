@@ -29,13 +29,13 @@
     <ClCompile Include="sumSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="swapSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="countSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="isOlderSpec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="swapSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="variableArgumentsSpec.cpp">

@@ -18,19 +18,19 @@
     <ClCompile Include="sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="swap.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="count.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="isOlder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="variableArguments.cpp">
+    <ClCompile Include="MainBasics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MainBasics.cpp">
+    <ClCompile Include="swap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="variableArguments.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
